@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.36f3c66e.css",
+    "main.js": "/static/js/main.84546dfe.js",
+    "static/media/movie.png": "/static/media/movie.6894910dd16534a92978.png",
+    "static/media/auto.png": "/static/media/auto.69351d5d54e86cf72f6e.png",
+    "static/media/Parcel.png": "/static/media/Parcel.9326792857dd0d25801d.png",
+    "static/media/cab.png": "/static/media/cab.b6951b4e0bbfa5a75a97.png",
+    "static/media/freepik__upload__79598.png": "/static/media/freepik__upload__79598.9f6cc29aecb78c8a74e8.png",
+    "static/media/Banner.jpeg": "/static/media/Banner.042247aad55f1b527775.jpeg",
+    "static/media/Banner-2.jpeg": "/static/media/Banner-2.745f01bc73bea7678e26.jpeg",
+    "static/media/barcode.png": "/static/media/barcode.a748c37fce0634c90b37.png",
+    "static/media/FB.png": "/static/media/FB.1792ff30fb032c94685c.png",
+    "static/media/Facebook.png": "/static/media/Facebook.49e67d43221b6bb1aa86.png",
+    "static/media/Cruze_Black.png": "/static/media/Cruze_Black.338c0685e5b8eb3f560d.png",
+    "index.html": "/index.html",
+    "main.36f3c66e.css.map": "/static/css/main.36f3c66e.css.map",
+    "main.84546dfe.js.map": "/static/js/main.84546dfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36f3c66e.css",
+    "static/js/main.84546dfe.js"
+  ]
+}
